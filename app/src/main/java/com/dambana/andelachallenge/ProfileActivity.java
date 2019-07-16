@@ -25,6 +25,9 @@ public class ProfileActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * Method to create a new profile
+     */
     private void createProfile() {
         p = new ProfileManager();
         name = findViewById(R.id.tvtName);
