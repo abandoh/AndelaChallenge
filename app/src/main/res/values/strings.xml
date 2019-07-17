@@ -11,4 +11,5 @@
     <string name="phone">Phone Number</string>
     <string name="image">My Image</string>
     <string name="url">https://andela.com/alc</string>
+    <string name="notification_error_ssl_cert_invalid">Invalid SSL certificate</string>
 </resources>
